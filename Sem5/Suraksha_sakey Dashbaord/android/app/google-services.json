@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820851900101",
+    "project_id": "surakshasakey-f4a45",
+    "storage_bucket": "surakshasakey-f4a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820851900101:android:40abeb3f2bb7df1df3baac",
+        "android_client_info": {
+          "package_name": "com.example.suraksha_sakey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xI3YDbIGfrq7c1PO7VvJ644fUgfAwl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
