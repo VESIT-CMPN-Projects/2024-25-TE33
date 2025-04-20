@@ -1,0 +1,1 @@
+ C:\\Users\\tejas\\OneDrive\\Desktop\\Kawach\\.dart_tool\\flutter_build\\2bb56f8b6bc506629b1f8ba77f3e04ff\\native_assets.yaml: 
